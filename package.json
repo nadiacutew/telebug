@@ -1,0 +1,20 @@
+{
+  "name": "spy",
+  "version": "1.0.0",
+  "main": "Java.js",
+  "scripts": {
+    "start": "node Java.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {                                       
+    "colors": "^1.4.0",
+    "figlet": "^1.8.0",
+    "fs-extra": "^11.3.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "readline-sync": "^1.4.10",
+    "zip-lib": "^1.0.5"
+  }
+}
